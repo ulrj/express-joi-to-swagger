@@ -1,7 +1,7 @@
 # Welcome to express-joi-to-swagger
 
 ## Description
-Solution that generates beatiful Swagger API documentation from code. 💻
+Solution that generates beautiful Swagger API documentation from code. 💻
 
 It lists all of endpoints registred within [app](https://expressjs.com/) with their routes, [methods](https://expressjs.com/en/guide/routing.html), relevant middlewares.
 
